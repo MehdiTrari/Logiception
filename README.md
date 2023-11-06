@@ -53,38 +53,25 @@ Le projet de CultureDiffusion consiste à développer une bibliothèque numériq
 - **Suppression automatique**
   Fonctionnalité logicielle qui retire les œuvres empruntées des répertoires des membres à l'expiration de la période de prêt.
 
-# Fil de l'Eau pour le Projet Bibliothèque Numérique
+# Journal de Projet - Bibliothèque Numérique
 
-## Phase 1: Analyse des Besoins
-- Recueil des exigences
-- Analyse de la faisabilité
-- Définition du périmètre du projet
+## 2023-11-06
 
-## Phase 2: Conception
-- Architecture système et logicielle
-- Modélisation des données
-- Conception de l'interface utilisateur
+### Création du `README.md`
+- Ajout d'un résumé du projet en une phrase.
+- Rédaction d'une description détaillée du projet.
 
-## Phase 3: Développement
-- Mise en place de l'environnement de développement
-- Codage des fonctionnalités
-- Intégration des systèmes
+### Ajout du `glossaire.md`
+- Élaboration d'un glossaire des termes métiers relatifs au projet.
 
-## Phase 4: Tests
-- Tests unitaires
-- Tests d'intégration
-- Tests de performance
+### Mises à jour du `README.md`
+- Incorporation du glossaire dans le document.
+- Finalisation de la description du projet avec le glossaire intégré.
 
-## Phase 5: Déploiement
-- Mise en production
-- Formation des utilisateurs
-- Support technique initial
-
-## Phase 6: Maintenance
-- Correctifs et améliorations
-- Mises à jour de sécurité
-- Évaluations périodiques des performances
-
+## Actions futures prévues (Non complétées)
+- Conception de l'architecture système et logicielle.
+- Développement des fonctionnalités de l'application.
+- Mise en place des procédures de tests et de déploiement.
 
 
 
