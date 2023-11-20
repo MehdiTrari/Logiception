@@ -1,0 +1,1 @@
+# L'application maintient un contrôle strict sur le nombre de copies et l'accès aux œuvres sous droits pour respecter les licences d'exploitation.
