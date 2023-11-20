@@ -2,7 +2,7 @@
 
 ## Étapes :
 
-1. [**Numérisation et Proposition d'Œuvre**](mesScenarios/Scenario_1)
+1. [**Numérisation et Proposition d'Œuvre**](./mesScenarios/Scenario_1)
 2. [**Modération Initiale**](mesScenarios/Scenario_2)
 3. [**Vérification par les Bibliothécaires**](mesScenarios/Scenario_3)
 5. [**Décision du Statut Légal**](mesScenarios/Scenario_4)
