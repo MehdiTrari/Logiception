@@ -2,18 +2,18 @@
 
 ## Étapes :
 
-1. [**Numérisation et Proposition d'Œuvre**](scenario/Scénario_1)
-2. **Modération Initiale :** 
-3. **Vérification par les Bibliothécaires :**
-4. **Décision du Statut Légal :**
-5. **Ajout au Fond Commun :**
-6. **Ajout au Séquestre :** 
-7. **Mise à Jour de l'Index :**
-8. **Emprunt ou Location par un Membre :**
-9. **Génération de Copie Chiffrée :**
-10. **Placement dans le Répertoire 'Emprunts' :**
-11. **Contrôle des Copies :**
-12. **Diffusion d'Œuvres du Domaine Public :**
-13. **Expiration de l'Emprunt :**
-14. **Accès aux Œuvres du Domaine Public :**
-15. **Contrôle des Droits d'Accès :**
+1. [**Numérisation et Proposition d'Œuvre**](/Scenario_1)
+2. [**Modération Initiale**](/Scenario_2)
+3. [**Vérification par les Bibliothécaires**](/Scenario_3)
+5. [**Décision du Statut Légal**](/Scenario_4)
+6. [**Ajout au Fond Commun**](/Scenario_5)
+7. [**Ajout au Séquestre**](/Scenario_6)
+8. [**Mise à Jour de l'Index**](/Scenario_7)
+9. [**Emprunt ou Location par un Membre**](/Scenario_8)
+10. [**Génération de Copie Chiffrée**](/Scenario_9)
+11. [**Placement dans le Répertoire 'Emprunts'**](/Scenario_10)
+12. [**Contrôle des Copies**](/Scenario_11)
+13. [**Diffusion d'Œuvres du Domaine Public**](/Scenario_12)
+14. [**Expiration de l'Emprunt**](/Scenario_13)
+15. [**Accès aux Œuvres du Domaine Public**](/Scenario_14)
+16. [**Contrôle des Droits d'Accès**](/Scenario_15)
