@@ -35,5 +35,5 @@ classDiagram
     }
     
     Membre --> SystemeBibliotheque : propose
-    SystemeBibliotheque --> BaseDeDonnees : enregistre ```
+    SystemeBibliotheque --> BaseDeDonnees : enregistre
 
