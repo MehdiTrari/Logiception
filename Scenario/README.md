@@ -12,8 +12,3 @@
 9. [**Emprunt ou Location par un Membre**](./mesScenarios/Scenario_8.md)
 10. [**Génération de Copie Chiffrée**](./mesScenarios/Scenario_9.md)
 11. [**Placement dans le Répertoire 'Emprunts'**](./mesScenarios/Scenario_10.md)
-12. [**Contrôle des Copies**](./mesScenarios/Scenario_11.md)
-13. [**Diffusion d'Œuvres du Domaine Public**](./mesScenarios/Scenario_12.md)
-14. [**Expiration de l'Emprunt**](./mesScenarios/Scenario_13.md)
-15. [**Accès aux Œuvres du Domaine Public**](./mesScenarios/Scenario_14.md)
-16. [**Contrôle des Droits d'Accès**](./mesScenarios/Scenario_15.md)
