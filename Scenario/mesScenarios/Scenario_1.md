@@ -1,5 +1,7 @@
 # Un membre de l'association numérise une œuvre et la propose à la bibliothèque.
 
+## Diagramme de séquence 
+
 ```mermaid
 
 sequenceDiagram
@@ -18,6 +20,7 @@ sequenceDiagram
     deactivate Systeme
 
 ```
+## Diagramme de classe 
 
 ```mermaid
 
