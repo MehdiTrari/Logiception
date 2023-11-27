@@ -14,3 +14,25 @@ sequenceDiagram
     deactivate BaseDeDonnees
     Systeme-->>Membre: Accusé de réception
     deactivate Systeme
+
+
+classDiagram
+    class Membre {
+        +String nom
+        +String email
+        +proposerOeuvre()
+    }
+    class SystemeBibliotheque {
+        +List oeuvres
+        +verifierOeuvre()
+        +enregistrerOeuvre()
+        +notifierMembre()
+    }
+    class BaseDeDonnees {
+        +List oeuvresEnAttente
+        +ajouterOeuvre()
+        +supprimerOeuvre()
+    }
+    
+    Membre --> SystemeBibliotheque : propose
+    SystemeBibliotheque --> BaseDeDonnees : enregistre
