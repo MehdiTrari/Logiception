@@ -17,6 +17,9 @@ sequenceDiagram
     Systeme-->>Membre: Accusé de réception
     deactivate Systeme
 
+```
+
+```mermaid
 
 classDiagram
     class Membre {
@@ -38,4 +41,5 @@ classDiagram
     
     Membre --> SystemeBibliotheque : propose
     SystemeBibliotheque --> BaseDeDonnees : enregistre
+```
 
