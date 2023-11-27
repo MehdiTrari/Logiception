@@ -1,6 +1,8 @@
 # Un membre de l'association numérise une œuvre et la propose à la bibliothèque.
 
-```sequenceDiagram
+```mermaid
+
+sequenceDiagram
     participant Membre as Membre de l'Association
     participant Systeme as Système de Bibliothèque
     participant BaseDeDonnees as Base de Données
