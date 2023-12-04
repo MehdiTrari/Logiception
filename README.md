@@ -100,3 +100,83 @@ sequenceDiagram
         end
     end
 ```
+
+## Diagramme de classe du logiciel : 
+
+```mermaid
+
+classDiagram
+    class Membre {
+        +String nom
+        +String email
+        +List emprunts
+        +proposerOeuvre()
+        +recevoirNotification()
+        +demanderEmpruntLocation()
+        +recevoirCopieChiffree()
+        +recevoirEtStockerCopie()
+        +confirmerReception()
+    }
+    class SystemeBibliotheque {
+        +List oeuvres
+        +List oeuvresEnAttenteModeration
+        +verifierOeuvre()
+        +enregistrerOeuvre()
+        +notifierMembre()
+        +soumettrePourModeration()
+        +deciderStatutLegal()
+        +notifierStatut()
+        +demanderAjoutFondCommun()
+        +demanderAjoutSequestre()
+        +demanderMiseAJourIndex()
+        +verifierDisponibiliteDroits()
+        +confirmerEmpruntLocation()
+        +demanderGenerationCopieChiffree()
+        +fournirCopieChiffree()
+        +placerCopieDansEmprunts()
+        +demanderControleCopies()
+        +recevoirRapportCopies()
+    }
+    class Moderateur {
+        +verifierInformations()
+        +deciderStatut()
+        +verifierOeuvre()
+    }
+    class Bibliothecaire {
+        +verifierInformationsDetaillees()
+        +demanderInformationsSupplementaires()
+        +transmettreInformations()
+    }
+    class BaseDeDonnees {
+        +List oeuvresEnAttente
+        +List oeuvres
+        +List fondCommun
+        +List sequestre
+        +List indexOeuvres
+        +List copiesChiffrees
+        +List copies
+        +ajouterOeuvre()
+        +supprimerOeuvre()
+        +verifierPresenceOeuvre()
+        +mettreAJourStatut()
+        +fournirInformations()
+        +ajouterAuFondCommun()
+        +ajouterAuSequestre()
+        +mettreAJourIndex()
+        +verifierInformationsOeuvre()
+        +genererCopieChiffree()
+        +controlerCopies()
+        +rapporterEtatCopies()
+        +confirmerMiseAJour()
+        +confirmerAjout()
+    }
+
+    Membre --> SystemeBibliotheque : propose | demande | confirme réception
+    SystemeBibliotheque --> BaseDeDonnees : enregistre | met à jour | vérifie | demande ajout | demande génération | demande contrôle
+    BaseDeDonnees --> SystemeBibliotheque : met à jour | confirme | fournit | rapporte
+    SystemeBibliotheque --> Membre : notifie | fournit copie | place copie
+    Moderateur --> Bibliothecaire : transfert
+    Bibliothecaire --> BaseDeDonnees : demande
+    BaseDeDonnees --> Bibliothecaire : fournit
+    Bibliothecaire --> SystemeBibliotheque : transmet
+```
