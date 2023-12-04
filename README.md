@@ -9,7 +9,7 @@ Le projet de CultureDiffusion consiste à développer une bibliothèque numériq
 [**Glossaire**](./glossaire.md)  
 [**Scénario**](./Scenario)  
 [**Suivi**](./suivi.md)  
-[**Exigences Techniques**](./Exigences Techniques.md)  
+[**Exigences Techniques**](./ExigencesTechniques.md)  
 
 
 ## Diagramme de séquence du logiciel : 
