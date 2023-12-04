@@ -6,6 +6,6 @@ Le projet de CultureDiffusion consiste à développer une bibliothèque numériq
 
 ## Sommaire
 
-[**Glossaire**](./glossaire.md)
-[**Scénario**](./Scenario)
-[**Suivi**](./suivi.md)
+[**Glossaire**](./glossaire.md)  
+[**Scénario**](./Scenario)  
+[**Suivi**](./suivi.md)  
