@@ -17,3 +17,9 @@
 - Conception de l'architecture système et logicielle.
 - Développement des fonctionnalités de l'application.
 - Mise en place des procédures de tests et de déploiement.
+
+## 2023-12-04
+
+- Création des fichiers manquants comme le suivi ou bien le cahier de paillasses.
+- Réalisation du diagramme général
+- Finalisation du GitHub
