@@ -18,6 +18,18 @@
 - Développement des fonctionnalités de l'application.
 - Mise en place des procédures de tests et de déploiement.
 
+## 2023-11-13
+
+- Création du scénario
+- 
+## 2023-11-20
+
+- Création des cas du scénario
+  
+## 2023-11-27
+
+- Création des différents diagrammes pour chaque cas de notre scénario
+- 
 ## 2023-12-04
 
 - Création des fichiers manquants comme le suivi ou bien le cahier de paillasses.
